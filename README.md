@@ -2,7 +2,7 @@
 
 ## Fonctionnement
 
-Ce dojo est composé de petits exercices à réaliser prévus séquentiellement mais qui peuvent être réussis dans l'ordre désiré.
+Ce dojo est composé de petits exercices à réaliser prévus séquentiellement mais qui sont à réaliser séquentiellement.
 
 ## Exercices
 
